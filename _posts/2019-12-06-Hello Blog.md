@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Hello Blog
-subtitle:   第一次使用个人博客
+subtitle:   第一次总该记录点什么
 date:       2019-12-06
 author:     HighBro
 header-img: img/post-bg-ios9-web.jpg
